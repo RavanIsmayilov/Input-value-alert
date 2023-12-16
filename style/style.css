@@ -1,0 +1,17 @@
+.input {
+  width: 180px;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.btn {
+  width: 100px;
+  padding: 15px;
+  background-color: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-left: 15px;
+}/*# sourceMappingURL=style.css.map */
